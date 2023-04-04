@@ -8,9 +8,7 @@
     "skipLibCheck": true,
     "noImplicitReturns": true,
     "allowSyntheticDefaultImports": true,
-    "lib": [
-      "es2020"
-    ],
+    "lib": ["es2020"],
     "strict": true
   }
 }
