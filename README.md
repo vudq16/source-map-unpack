@@ -5,12 +5,12 @@
 
 ### Usage:
 
-1. `npm install -g source-map-unpack`
-2. `unpack <project-folder> <path-to-sourcemap>`
+1. `npm install -g https://github.com/vudq16/source-map-unpack`
+2. `unpack <sourcemaps-dir> <project-dir>`
 
 For example:
 
-`unpack egghead js/egghead-bundle.js.map`
+`unpack ./sourcemaps ./results`
 
 Note:
 

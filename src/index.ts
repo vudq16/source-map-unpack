@@ -40,7 +40,7 @@ if (!projectNameInput || !mapInput) {
   console.log();
   console.log(
     chalk.white('Usage: unpack'),
-    chalk.green('<map-files-dir> <project-dir>'),
+    chalk.green('<map-files-dir> <results-dir>'),
   );
   console.log();
   console.log(
